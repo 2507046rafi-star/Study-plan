@@ -1,0 +1,6 @@
+{
+  "name": "Daily Goal Card Creator",
+  "description": "Create, customize, and export personalized daily goal cards with custom text, images, and captions into Image, PDF, PowerPoint, or Word formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
